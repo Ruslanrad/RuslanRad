@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Ruslan! Welcome ✌️
 ### About me
-- I am 21 year old programmer from Oktyabr'skiy(Ufa) 💻
+- I am 34 year old programmer from Oktyabr'skiy(Ufa) 💻
 - I learn Java at [Job4j](https://job4j.ru/)☕
 - My Java expirience is 1 years ⌚
 #
